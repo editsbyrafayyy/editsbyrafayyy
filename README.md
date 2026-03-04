@@ -1,6 +1,11 @@
 # About Me:
-I'm currently working on — Setting up a hands-on cybersecurity home lab with Zeek, ELK stack, Wazuh, and OPNsense. Mostly focused on network monitoring, log analysis, and getting into the offensive side of things with penetration testing.<br> I'm looking to collaborate on — Penetration testing projects, CTF challenges, Red Team/Blue Team exercises, and anything around network security tooling. Always down to team up with people who are serious about breaking and securing systems.<br>I'm looking for help with — Leveling up my pentesting methodology, understanding exploit development better, and getting more hands-on experience with real-world attack surfaces and vulnerability assessments.<br>I'm currently learning — Penetration testing techniques, network reconnaissance, Zeek log analysis, IDS/IPS with Suricata, and deepening my understanding of how attackers think and operate.<br>Ask me about — Network security, ethical hacking, SOC workflows, GRC fundamentals, or setting up a cybersecurity home lab from scratch. If you're into cybersec, we've probably got something to talk about.
+I'm currently working on — Setting up a hands-on cybersecurity home lab with Zeek, ELK stack, Wazuh, and OPNsense. Mostly focused on network monitoring, log analysis, and getting into the offensive side of things with penetration testing.<br> 
 
+I'm looking to collaborate on — Penetration testing projects, CTF challenges, Red Team/Blue Team exercises, and anything around network security tooling. Always down to team up with people who are serious about breaking and securing systems.<br>
+
+I'm looking for help with — Leveling up my pentesting methodology, understanding exploit development better, and getting more hands-on experience with real-world attack surfaces and vulnerability assessments.<br>
+
+I'm currently learning — Penetration testing techniques, network reconnaissance, Zeek log analysis, IDS/IPS with Suricata, and deepening my understanding of how attackers think and operate.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafay_ather) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RafayAtherKhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/editsbyrafayyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafayather@outlook.com) 
