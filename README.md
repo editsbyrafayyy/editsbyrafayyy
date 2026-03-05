@@ -5,7 +5,7 @@
 
 📈 Currently leveling up my pentesting methodology, digging into exploit development, and getting more hands-on with real-world attack surfaces and vulnerability assessments. On the learning side, I'm going deep into network reconnaissance, Zeek log analysis, IDS/IPS with Suricata, and understanding how attackers actually think and operate.
 
-💬 Feel free to ask me about network security, ethical hacking, SOC workflows, GRC fundamentals, or setting up a cybersecurity home lab from scratch. If you're into cybersec, we've probably got something to talk about.
+🎈 Feel free to ask me about network security, ethical hacking, SOC workflows, GRC fundamentals, or setting up a cybersecurity home lab from scratch. If you're into cybersec, we've probably got something to talk about.
 
 ## 💬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafay_ather) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RafayAtherKhan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/editsbyrafayyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafayather@outlook.com) 
