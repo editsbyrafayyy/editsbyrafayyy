@@ -1,7 +1,7 @@
 # 🙇 About Me:
 🛠️ Setting up a hands-on cybersecurity home lab with Zeek, ELK stack, Wazuh, and OPNsense — mostly focused on network monitoring, log analysis, and getting into the offensive side of things with penetration testing.
 
-🤝 I'm always looking to collaborate on CTF challenges, Red Team/Blue Team exercises, and anything around network security tooling. If you're serious about breaking and securing systems, let's build something together.
+🤝 I'm always looking to collaborate on CTF challenges, Red Team/Blue Team exercises, and anything around network security tooling. 
 
 📈 Currently leveling up my pentesting methodology, digging into exploit development, and getting more hands-on with real-world attack surfaces and vulnerability assessments. On the learning side, I'm going deep into network reconnaissance, Zeek log analysis, IDS/IPS with Suricata, and understanding how attackers actually think and operate.
 
