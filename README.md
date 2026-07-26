@@ -38,9 +38,3 @@ fundamentals, always happy to talk shop.
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=editsbyrafayyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=editsbyrafayyy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
