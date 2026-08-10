@@ -13,13 +13,6 @@ strategy, and system design concepts hands-on.
 Feel free to reach out about backend engineering, system design, or security
 fundamentals, always happy to talk shop.
 
-## Currently Building
-
-- **Stardust** — event-driven billing alert engine (FastAPI, Celery, Redis,
-  PostgreSQL), in progress.
-- **Vortex** — self-hosted observability platform for Linux systems
-  (FastAPI, TimescaleDB, Redis Streams).
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RafayAtherKhan)
