@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=600&color=FF2E63&center=true&vCenter=true&width=650&height=100&lines=%24+whoami;Rafay+Ather+Khan;backend+engineer+%2F%2F+security+background" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=FF2E63&center=true&vCenter=true&width=800&height=100&lines=%24+whoami;Rafay+Ather+Khan;backend+engineer+%2F%2F+security+background" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -21,15 +21,31 @@
 
 <br>
 
-## About
+## about
 
-Backend engineer with a security background, currently finishing my final year CS degree. Outside of that I tinker with a homelab
+Backend engineer with a security background, currently finishing my final year CS degree. Outside of that I tinker with a homelab.
 
 I like backend systems that do something interesting under the hood, not just CRUD with extra steps.
 
 <br>
 
-## What I'm Building
+<pre align="center">
+      ___           ___           ___                    ___           ___           ___           ___           ___                    ___           ___                     ___         ___           ___           ___                    ___           ___
+     /\  \         /\  \         /\  \                  /\  \         /\__\         /\  \         /\  \         /\__\                  /\__\         /\  \                   /\  \       /\  \         |\__\         /\  \                  /\  \         /\  \
+    /::\  \       /::\  \       /::\  \                 \:\  \       /:/  /        /::\  \       /::\  \       /:/  /                 /:/  /        /::\  \                  \:\  \     /::\  \        |:|  |       /::\  \                /::\  \       /::\  \
+   /:/\ \  \     /:/\:\  \     /:/\:\  \                 \:\  \     /:/__/        /:/\:\  \     /:/\:\  \     /:/__/                 /:/__/        /:/\:\  \             ___ /::\__\   /:/\:\  \       |:|  |      /:/\:\  \              /:/\:\  \     /:/\:\  \
+  _\:\~\ \  \   /::\~\:\  \   /::\~\:\__\                /::\  \   /::\  \ ___   /::\~\:\  \   /::\~\:\  \   /::\__\____            /::\  \ ___   /:/  \:\  \           /\  /:/\/__/  /::\~\:\  \      |:|__|__   /::\~\:\  \            /:/  \:\  \   /::\~\:\  \
+ /\ \:\ \ \__\ /:/\:\ \:\__\ /:/\:\ \:|__|              /:/\:\__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:::::\__\          /:/\:\  /\__\ /:/__/ \:\__\          \:\/:/  /    /:/\:\ \:\__\     /::::\__\ /:/\:\ \:\__\          /:/__/_\:\__\ /:/\:\ \:\__\
+ \:\ \:\ \/__/ \/__\:\/:/  / \:\~\:\/:/  /             /:/  \/__/ \/__\:\/:/  / \:\~\:\ \/__/ \:\~\:\ \/__/ \/_|:|~~|~             \/__\:\/:/  / \:\  \ /:/  /           \::/  /     \/__\:\/:/  /    /:/~~/~    \:\~\:\ \/__/          \:\  /\ \/__/ \/__\:\/:/  /
+  \:\ \:\__\        \::/  /   \:\ \::/  /             /:/  /           \::/  /   \:\ \:\__\    \:\ \:\__\      |:|  |                   \::/  /   \:\  /:/  /             \/__/           \::/  /    /:/  /       \:\ \:\__\             \:\ \:\__\        \::/  /
+   \:\/:/  /        /:/  /     \:\/:/  /              \/__/            /:/  /     \:\ \/__/     \:\ \/__/      |:|  |                   /:/  /     \:\/:/  /                              /:/  /     \/__/         \:\ \/__/              \:\/:/  /        /:/  /
+    \::/  /        /:/  /       \::/__/                               /:/  /       \:\__\        \:\__\        |:|  |                  /:/  /       \::/  /                              /:/  /                     \:\__\                 \::/  /        /:/  /
+     \/__/         \/__/         ~~                                   \/__/         \/__/         \/__/         \|__|                  \/__/         \/__/                               \/__/                       \/__/                  \/__/         \/__/
+</pre>
+
+<br>
+
+## what I'm building
 
 <table>
 <tr>
@@ -84,7 +100,7 @@ On-call alert dispatch and escalation engine. gRPC, chaos engineering, Kubernete
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=editsbyrafayyy&theme=radical&background=0d0221&stroke=FF2E63&ring=FF2E63&fire=FF2E63&currStreakLabel=eaeaea&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=editsbyrafayyy&theme=radical&background=0d0221&stroke=FF2E63&ring=FF2E63&fire=FF2E63&currStreakLabel=eaeaea&hide_border=true" />
 </p>
 
 <p align="center">
