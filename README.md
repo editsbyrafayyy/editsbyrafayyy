@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=FF2E63&center=true&vCenter=true&width=800&height=100&lines=%24+whoami;Rafay+Ather+Khan;backend+engineer+%2F%2F+security+background" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=600&color=FF2E63&center=true&vCenter=true&width=800&height=100&lines=%24+whoami;Rafay+Ather+Khan;backend+engineer+%2F%2F+security+background" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -72,13 +72,13 @@ On-call alert dispatch and escalation engine. gRPC, chaos engineering, Kubernete
 
 <p align="center">
   <a href="https://github.com/editsbyrafayyy/phantasm-tracker">
-    <img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=editsbyrafayyy&repo=phantasm-tracker&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
+    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=phantasm-tracker&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
   </a>
   <a href="https://github.com/editsbyrafayyy/stardust">
-    <img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=editsbyrafayyy&repo=stardust&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
+    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=stardust&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
   </a>
   <a href="https://github.com/editsbyrafayyy/nebula">
-    <img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=editsbyrafayyy&repo=nebula&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
+    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=nebula&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
   </a>
 </p>
 
@@ -95,8 +95,8 @@ On-call alert dispatch and escalation engine. gRPC, chaos engineering, Kubernete
 ## stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=editsbyrafayyy&show_icons=true&theme=radical&bg_color=0d0221&title_color=FF2E63&icon_color=FF2E63&text_color=eaeaea&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=editsbyrafayyy&layout=compact&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=editsbyrafayyy&show_icons=true&theme=radical&bg_color=0d0221&title_color=FF2E63&icon_color=FF2E63&text_color=eaeaea&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editsbyrafayyy&layout=compact&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
