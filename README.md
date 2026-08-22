@@ -21,15 +21,15 @@
 
 <br>
 
-## about
+## About
 
-Backend engineer with a security background, currently finishing my final year CS degree. Outside of that I tinker with a homelab (working through Wazuh, Suricata, Zeek, ELK, OPNsense) and co-run a small dev agency called Aldera.
+Backend engineer with a security background, currently finishing my final year CS degree. Outside of that I tinker with a homelab
 
 I like backend systems that do something interesting under the hood, not just CRUD with extra steps.
 
 <br>
 
-## what I'm building
+## What I'm Building
 
 <table>
 <tr>
