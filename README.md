@@ -2,16 +2,15 @@
 
 CS student at FAST NUCES Lahore working across cybersecurity and backend
 software engineering, currently focused primarily on backend development. My
-security background (SOC/GRC, hands-on research, a self-hosted home lab with
-Wazuh, Suricata, and the ELK stack) shapes how I think about failure modes and
+security background (SOC/GRC, hands-on research, a self-hosted home lab that shapes how I think about failure and
 data integrity when building backend systems.
 
 Most of my active building right now is backend projects in Python (FastAPI,
 PostgreSQL, Redis, Celery, Docker), working through async processing, caching
 strategy, and system design concepts hands-on.
 
-Feel free to reach out about backend engineering, system design, or security
-fundamentals, always happy to talk shop.
+Feel free to reach out about back-end engineering, system design, or security
+fundamentals, always happy to talk.
 
 ## Connect
 
