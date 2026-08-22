@@ -70,18 +70,6 @@ On-call alert dispatch and escalation engine. gRPC, chaos engineering, Kubernete
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/editsbyrafayyy/phantasm-tracker">
-    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=phantasm-tracker&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
-  </a>
-  <a href="https://github.com/editsbyrafayyy/stardust">
-    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=stardust&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
-  </a>
-  <a href="https://github.com/editsbyrafayyy/nebula">
-    <img width="270" src="https://github-stats-extended.vercel.app/api/pin/?username=editsbyrafayyy&repo=nebula&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&icon_color=FF2E63&hide_border=true" />
-  </a>
-</p>
-
 <br>
 
 ## stack
@@ -97,10 +85,6 @@ On-call alert dispatch and escalation engine. gRPC, chaos engineering, Kubernete
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=editsbyrafayyy&show_icons=true&theme=radical&bg_color=0d0221&title_color=FF2E63&icon_color=FF2E63&text_color=eaeaea&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editsbyrafayyy&layout=compact&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=editsbyrafayyy&theme=radical&background=0d0221&stroke=FF2E63&ring=FF2E63&fire=FF2E63&currStreakLabel=eaeaea&hide_border=true" />
 </p>
 
 <p align="center">
