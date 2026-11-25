@@ -30,7 +30,7 @@ $ cat ~/rafay.yml
 
 name:       Rafay Ather Khan
 based_in:   Lahore, PK
-role:       Software Engineer (Backend) @ Zeen Technologies
+role:       Software Engineer (Backend)
 studying:   BS Computer Science @ FAST NUCES  # class of 2027
 building:   Windows device management in Go: enrolment, OMA-DM/SyncML, mTLS + PKI
 fyp:        a testbed for ransomware deception defences (C++20 agent, Python forensics)
