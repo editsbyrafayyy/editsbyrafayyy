@@ -35,10 +35,10 @@ studying:   BS Computer Science @ FAST NUCES  # class of 2027
 building:   Windows device management in Go: enrolment, OMA-DM/SyncML, mTLS + PKI
 fyp:        a testbed for ransomware deception defences (C++20 agent, Python forensics)
 heading:    backend / platform  ->  DevSecOps / SRE
-off_hours:  homelab, malware lab, breaking my own servers on purpose
+off_hours:  homelab, malware lab, and a horror movie tracker 
 ```
 
-I came into CS through security and stayed for the systems. I like backend work that does something interesting under the hood, not just CRUD with extra steps.
+I came into CS through security and stayed for the systems. I like backend work as it makes my head spin...
 
 <br>
 
@@ -72,29 +72,9 @@ Event-driven alert engine that tracks subscriptions across mixed billing cycles 
 
 A testbed that runs published ransomware *deception* defences side by side under identical conditions. Windows agent → virtio-serial → host forensic pipeline with tamper-evident evidence bundles.
 
+<sub>Grew out of my [Malware Analysis Lab](https://github.com/editsbyrafayyy/Malware-Analysis-Lab): KVM + CAPEv2 detonation, mapped to MITRE ATT&CK.</sub>
+
 <sub>`C++20` `Sysmon` `NTFS USN journal` `QEMU/libvirt` `Python`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Vortex](https://github.com/editsbyrafayyy/Vortex-System-Intelligence-Observability-Platform)
-<sub><img src="https://img.shields.io/badge/phase%201-complete-2EA043?style=flat-square" /></sub>
-
-Self-hosted Linux observability, reading metrics straight from `/proc`. Custom ring buffer and min-heap, time-series storage, statistical anomaly detection.
-
-<sub>`Python` `/proc` `time-series DB` `Redis Streams` `HTMX`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [Malware Analysis Lab](https://github.com/editsbyrafayyy/Malware-Analysis-Lab)
-<sub><img src="https://img.shields.io/badge/security-research-0d0221?style=flat-square" /></sub>
-
-An isolated detonation environment for ransomware samples, with execution behaviour mapped to MITRE ATT&CK.
-
-<sub>`KVM` `CAPEv2` `INetSim` `MITRE ATT&CK`</sub>
 
 </td>
 </tr>
@@ -108,44 +88,28 @@ An isolated detonation environment for ransomware samples, with execution behavi
 
 ## ~/stack
 
-<p align="center">
-  <sub><b>languages</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=go,py,cpp,ts,kotlin,bash&theme=dark" />
-</p>
-
-<p align="center">
-  <sub><b>backend & data</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,nextjs,react,supabase&theme=dark" />
-</p>
-
-<p align="center">
-  <sub><b>infra & tooling</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=linux,arch,docker,grafana,git,vercel&theme=dark" />
-</p>
-
-<p align="center">
-  <sub><b>levelling up next</b></sub><br>
-  <img src="https://skillicons.dev/icons?i=githubactions,kubernetes,terraform,aws&theme=dark" />
-</p>
-
+<p align="center"><b><sub>languages</sub></b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=go,py,cpp,ts,kotlin,bash&theme=dark" /></p>
 <br>
 
-## ~/stats
+<p align="center"><b><sub>backend &amp; data</sub></b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,nextjs,react,supabase&theme=dark" /></p>
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=editsbyrafayyy&show_icons=true&theme=radical&bg_color=0d0221&title_color=FF2E63&icon_color=FF2E63&text_color=eaeaea&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=editsbyrafayyy&layout=compact&theme=radical&bg_color=0d0221&title_color=FF2E63&text_color=eaeaea&hide_border=true&langs_count=8" />
-</p>
+<p align="center"><b><sub>infra &amp; tooling</sub></b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,arch,docker,grafana,git,vercel&theme=dark" /></p>
+<br>
+
+<p align="center"><b><sub>levelling up next</sub></b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=githubactions,kubernetes,terraform,aws&theme=dark" /></p>
+<br>
+
+## ~/activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=editsbyrafayyy&bg_color=0d0221&color=FF2E63&line=FF2E63&point=eaeaea&area=true&area_color=FF2E63&hide_border=true" />
 </p>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/editsbyrafayyy/editsbyrafayyy/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/editsbyrafayyy/editsbyrafayyy/output/snake.svg" width="100%" />
-</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,100:0d0221&height=110&section=footer" />
